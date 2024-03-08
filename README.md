@@ -1,5 +1,7 @@
 # Hello, I'm Ephraim Norbert
 <a href="https://https://www.linkedin.com/in/ephraim-norbert-33777920b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
 As a recent graduate of a comprehensive cybersecurity bootcamp, I have successfully earned my cybersecurity certification, equipping me with a robust set of practical skills and knowledge essential for excelling in the dynamic field of cybersecurity. With a strong foundation in network security, risk assessment, risk management, and threat analysis, I am well-prepared to make a significant impact in the realm of cyber defense. 
 
 My proficiency extends to a diverse array of cybersecurity tools and technologies, encompassing vulnerability scanners, firewalls, and intrusion detection systems. These tools, which I have gained hands-on experience with, allow me to proactively identify and counteract potential threats and vulnerabilities.
