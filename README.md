@@ -1,5 +1,10 @@
 # Hello, I'm Ephraim Norbert
-<a href="https://https://www.linkedin.com/in/ephraim-norbert-33777920b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+## 🤝 Connect With Me 
+<p align="center">
+  <a href="https://https://www.linkedin.com/in/ephraim-norbert-33777920b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
+  <a href="mailto:norbert.ephraim0@gmail."><img src="https://img.shields.io/badge/gmail-%EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
 
 As a recent graduate of a comprehensive cybersecurity bootcamp, I have successfully earned my cybersecurity certification, equipping me with a robust set of practical skills and knowledge essential for excelling in the dynamic field of cybersecurity. With a strong foundation in network security, risk assessment, risk management, and threat analysis, I am well-prepared to make a significant impact in the realm of cyber defense. 
