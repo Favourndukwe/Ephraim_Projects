@@ -1,4 +1,5 @@
-# Hello, I'm Ephraim Norbert
+<h1 align="left">Hi 👋, I'm Ephraim Norbert</h1>
+<h3 align="center">I'm a Cloud Native enthusiast, who is passionate about the software development lifecycle (SDLC), infrastructure automation, open-source software collaboration,and DevOps Practices.</h3>
 
 
 ## 🤝 Connect With Me 
