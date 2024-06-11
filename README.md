@@ -1,19 +1,19 @@
-<h1 align="left">Hi 👋, I'm favor</h1>
-<h3 align="center">I'm a Cloud Native enthusiast, who is passionate about the software development lifecycle (SDLC), infrastructure automation, open-source software collaboration,and DevOps Practices.</h3>
+<h1 align="left">Hi 👋, I'm favour Ndukwe</h1>
+<h3 align="center">I'm a Data Analyst, who is passionate about the software development lifecycle (SDLC), infrastructure automation, open-source software collaboration,and DevOps Practices.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CloudknightOps&label=Profile%20views&color=0e75b6&style=flat" alt="CloudknightOps" /> </p>
 <p align="right"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width="500"> </p>
 
 <p> 
 
-- 🔭 I’m currently working on **Cloud-Native Development with Openshift,Kubernetes and AWS**
+- 🔭 I’m currently working on **Global Youtube statistics content**
 
-- 🌱 I’m currently learning **Containerized Applications on AWS**
+- 🌱 I’m currently learning **Data science**
 
 - 👯 I’m looking to collaborate on **Devops, Application Dev using Microservices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CloudknightOps?tab=repositories](https://github.com/CloudknightOps?tab=repositories)
 
-- 📫 How to reach me **Uviekugbere.theo@gmail.com**
+- 📫 How to reach me **Favourndukwe38@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/uviekugbere-theophilus/](https://www.linkedin.com/in/uviekugbere-theophilus/)
 
@@ -30,10 +30,10 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Python        | <a href="https://google.com">Detection Lab</a>|
+| Structured Query Language(SQL) | <a href="https://google.com">Detection Lab</a>|
+| Excel     | SOC Automation Lab|
+| Powerbi  | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
